@@ -1,3 +1,7 @@
+; Algorithm returns a boolean (#t or #f)
+; if a given number n is prime
+; using fermat-test technique
+
 ; defining mdc?
 (define (mdc x y)
 	(cond 
